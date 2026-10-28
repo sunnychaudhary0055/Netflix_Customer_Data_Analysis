@@ -3,14 +3,14 @@
 # 📊 Dashboard Preview
 <table>
   <tr>
-    <td><img src="./Netflix%20Dashboard/Screenshot(78).png" width="100%" alt="Page 1"></td>
-    <td><img src="./Netflix%20Dashboard/Screenshot(79).png" width="100%" alt="Page 2"></td>
-    <td><img src="./Netflix%20Dashboard/Screenshot(80).png" width="100%" alt="Page 3"></td>
+    <td><img src="./Netflix%20Dashboard/Screenshot (78)-Copy.png" width="100%" alt="Page 1"></td>
+    <td><img src="./Netflix%20Dashboard/Screenshot (79)-Copy.png" width="100%" alt="Page 2"></td>
+    <td><img src="./Netflix%20Dashboard/Screenshot (80)-Copy.png" width="100%" alt="Page 3"></td>
   </tr>
   <tr>
-    <td><img src="./Netflix%20Dashboard/Screenshot(81).png" width="100%" alt="Page 4"></td>
-    <td><img src="./Netflix%20Dashboard/Screenshot(82).png" width="100%" alt="Page 5"></td>
-    <td><img src="./Netflix%20Dashboard/Screenshot(83).png" width="100%" alt="Page 6"></td>
+    <td><img src="./Netflix%20Dashboard/Screenshot (81)-Copy.png" width="100%" alt="Page 4"></td>
+    <td><img src="./Netflix%20Dashboard/Screenshot (82)-Copy.png" width="100%" alt="Page 5"></td>
+    <td><img src="./Netflix%20Dashboard/Screenshot (83).png" width="100%" alt="Page 6"></td>
   </tr>
 </table>
 
